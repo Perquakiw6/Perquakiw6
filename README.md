@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Perquakiw6
-- 👀 I’m interested in web-design, some code
-- 🌱 I’m currently learning web-design
+- 👀 I’m interested in system analysis, solution architecture, system design and some code
+- 🌱 I’m currently work as a systems analyst
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
